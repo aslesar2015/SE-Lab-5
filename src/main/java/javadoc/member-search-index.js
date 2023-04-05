@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"lab3_part2","c":"SimpleCalculator","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"lab3_part2","c":"SimpleCalculator","l":"SimpleCalculator()","u":"%3Cinit%3E()"}];updateSearchResults();
